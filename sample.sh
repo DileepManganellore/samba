@@ -1,2 +1,3 @@
-if [ test == test]; then
 ls
+ls -l
+ls -l/opt
